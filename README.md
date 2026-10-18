@@ -2,7 +2,7 @@
 
 ### Machine Learning aplicado ao estudo da sobrevida no câncer de mama
 
-**Projeto acadêmico · Inteli · 2022**
+**Projeto acadêmico · Inteli**
 
 *Investigação de técnicas de aprendizado de máquina para explorar padrões associados à sobrevida de pacientes com câncer de mama.*
 
@@ -176,7 +176,7 @@ O README original apresenta uma referência à licença **[Creative Commons Attr
 
 <div align="center">
 
-**Connect I.A. · Inteli · 2022**
+**Connect I.A. · Inteli**
 
 *Ciência de dados e aprendizado de máquina para investigar um desafio relevante na área da saúde, com compromisso com transparência metodológica e uso responsável.*
 
